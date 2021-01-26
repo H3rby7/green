@@ -21,3 +21,4 @@ Mainly based and off-sprung of https://climateaction.tech/
 * IS it viable to shut down "dev" servers over night?
   * do we actually need them to be running?
   * does it even save energy and thus - TCO2e
+* Also interesting: [Digital Climate Strike](https://digital.globalclimatestrike.net/)

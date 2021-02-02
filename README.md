@@ -15,6 +15,10 @@ Mainly based and off-sprung of https://climateaction.tech/
 * [Project Co2 Footprint Calculating](https://docs.google.com/spreadsheets/d/1dO2cFUu-IhK6wPwaemdxmWiQBn3WmD5vqnJXaA63yZw/edit#gid=861753785)
 * [MirageOS Unikernels](https://mirage.io/)
   * [36C3 Lecture](https://fahrplan.events.ccc.de/congress/2019/Fahrplan/events/11172.html)
+* [Carbon useage of Code](https://codecarbon.io/)
+* [Die Prinzipien nachhaltiger Softwareentwicklung](https://docs.microsoft.com/de-de/learn/modules/sustainable-software-engineering-overview/?WT.mc_id=green-9537-cxa)
+* https://principles.green/
+* https://djangoday.dk/talks/greening-django/
 
 # Ideas
 

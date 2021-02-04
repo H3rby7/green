@@ -26,3 +26,7 @@ Mainly based and off-sprung of https://climateaction.tech/
   * do we actually need them to be running?
   * does it even save energy and thus - TCO2e
 * Also interesting: [Digital Climate Strike](https://digital.globalclimatestrike.net/)
+
+# Initiatives
+
+* [Renewable Energy Docker instances for AI](https://examesh.de/)
